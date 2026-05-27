@@ -1,0 +1,23 @@
+[2026-05-27 06:22:03] IN_CREATE  (256) - /lab/.ciak.swp
+[2026-05-27 06:22:03] IN_CREATE  (256) - /lab/.ciak.swpx
+[2026-05-27 06:22:03] IN_DELETE  (512) - /lab/.ciak.swpx
+[2026-05-27 06:22:03] IN_DELETE  (512) - /lab/.ciak.swp
+[2026-05-27 06:22:03] IN_CREATE  (256) - /lab/.ciak.swp
+[2026-05-27 06:22:08] IN_CREATE  (256) - /lab/ciak
+[2026-05-27 06:22:08] IN_DELETE  (512) - /lab/.ciak.swp
+[2026-05-27 06:22:15] IN_CREATE IN_ISDIR  (1073742080) - /lab/ciao
+[2026-05-27 06:22:24] IN_DELETE  (512) - /lab/ciak
+[2026-05-27 06:22:34] IN_DELETE IN_ISDIR  (1073742336) - /lab/ciao
+[2026-05-27 06:22:39] IN_CREATE  (256) - /lab/.cia.swp
+[2026-05-27 06:22:39] IN_CREATE  (256) - /lab/.cia.swpx
+[2026-05-27 06:22:39] IN_DELETE  (512) - /lab/.cia.swpx
+[2026-05-27 06:22:39] IN_DELETE  (512) - /lab/.cia.swp
+[2026-05-27 06:22:39] IN_CREATE  (256) - /lab/.cia.swp
+[2026-05-27 06:22:42] IN_CREATE  (256) - /lab/cia
+[2026-05-27 06:22:42] IN_DELETE  (512) - /lab/.cia.swp
+[2026-05-27 06:22:50] IN_MOVED_FROM  (64) - /lab/cia
+Il vecchio nome e': cia
+Il nuovo nome e': ciao
+[2026-05-27 06:22:50] IN_MOVED_TO  (128) - /lab/ciao
+[2026-05-27 06:23:27] IN_MOVED_FROM  (64) - /lab/ciao
+[2026-05-27 06:23:42] IN_MOVED_TO  (128) - /lab/ciao
